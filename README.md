@@ -5,7 +5,8 @@
 </div>
 
 ## :wave: Welcome
-:turtle: 신입 개발자로 새로운 싹:seedling:을 틔운 최해정입니다. [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chj1491)](https://solved.ac/chj1491)
+:turtle: 신입 개발자로 새로운 싹:seedling:을 틔운 최해정입니다. 
+<br>[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chj1491)](https://solved.ac/chj1491)
 </br></br>
 
 ## :mailbox_with_mail: Contacts
